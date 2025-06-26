@@ -1,4 +1,9 @@
-## Hi there 👋
+- 🔭 I’m currently working on a lot of random crap.
+- 🌱 I’m currently learning Go and C.
+- 👯 I’m looking to collaborate on anything, really.
+- 📫 How to reach me: Contact me on discord. @partehcolumn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have tried every modern Mountain Dew flavor. My favorites are Code Red, Voltage, Baja Blast, and the 2024 Summer flavors.
 
 <!--
 **gitteh0754/gitteh0754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
